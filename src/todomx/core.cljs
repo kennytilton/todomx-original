@@ -1,9 +1,13 @@
 (ns todomx.core
   (:require
+    [clojure.browser.repl :as repl]
     [goog.dom :as dom]
     [tiltontec.model.core :as md]
     [tiltontec.tag.html :refer [tag-dom-create *tag-trace*]]
     [todomx.todomvc :as tmx]))
+
+(defonce conn
+   (repl/connect "http://localhost:9000/repl"))
 
 (enable-console-print!)
 
