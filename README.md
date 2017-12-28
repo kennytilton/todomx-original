@@ -1,16 +1,21 @@
 # todomx
 
-FIXME: Write a one-line description of your library/project.
+That's right: the [TodoMVCC Classic](http://todomvc.com), implemented with [Tag](https://github.com/kennytilton/tag) in [the Matrix](https://github.com/kennytilton/matrix).
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+Just a demo. Check the heavily-commented source, and read-mes in the Tag and Matrix repos.
 
 ## Setup
 
+````bash
+git clone https://github.com/kennytilton/todomx.git
+cd todomx
+````
+
 Most of the following scripts require [rlwrap](http://utopia.knoware.nl/~hlub/uck/rlwrap/) (on OS X installable via brew).
 
-Build your project once in dev mode with the following script and then open `index.html` in your browser.
+Build once in dev mode with the following script and then open `index.html` in your browser.
 
     ./scripts/build
 
@@ -51,6 +56,6 @@ Build a single release artifact with the following script and then open `index_r
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2017 Kenneth "His Kennyness" Tilton
 
 Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
