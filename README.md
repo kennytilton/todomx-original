@@ -4,7 +4,7 @@ That's right: the [TodoMVCC Classic](http://todomvc.com), implemented with [Tag]
 
 ## Overview
 
-Just a demo. Check the heavily-commented source, and read-mes in The Tag and Matrix repos.
+Just a demo. Check the heavily-commented source, and read-mes in the Tag and Matrix repos.
 
 ## Setup
 
