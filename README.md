@@ -1,6 +1,6 @@
 # todomx
 
-That is right. The [TodoMVCC Classic](http://todomvc.com), implemented with [Tag](https://github.com/kennytilton/tag) in the Matrix(https://github.com/kennytilton/matrix).
+That's right: the [TodoMVCC Classic](http://todomvc.com), implemented with [Tag](https://github.com/kennytilton/tag) in [the Matrix](https://github.com/kennytilton/matrix).
 
 ## Overview
 
